@@ -8,7 +8,7 @@ const users = [
   {
     id: 'd5e281d5-3fac-4bf6-b3c0-bb3ba7429d02',
     name: 'admin',
-    email: 'yhon@dev.co	',
+    email: 'yhon@dev.co',
     password: '123456',
   },
 ];

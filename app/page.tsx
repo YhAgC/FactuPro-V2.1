@@ -15,9 +15,9 @@ export default function Page() {
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
           <p className={`${monts.className} antialiasedtext-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Bienvenido al SAT.</strong> Esta es nuestra plataforma oficial{' '}
-            <a href="https://www.armada.mil.co/" className="text-blue-500">
-              WEB EN DESARROLLO
+            <strong>Bienvenido a FatuPro.</strong> Esta pagina aun se encuentra en desarrollo{' '}
+            <a href="" className="text-blue-500">
+              
             </a>
           </p>
           <Link
