@@ -6,9 +6,9 @@ const users = [
     password: '123456',
   },
   {
-    id: '410544b2-4001-4271-9855-fec4b6a6442a',
-    name: 'Admin',
-    email: 'Yhon@dev.co',
+    id: 'd5e281d5-3fac-4bf6-b3c0-bb3ba7429d02',
+    name: 'admin',
+    email: 'yhon@dev.co	',
     password: '123456',
   },
 ];
