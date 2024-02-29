@@ -14,13 +14,13 @@ export default function InvoiceStatus({ status }: { status: string }) {
     >
       {status === 'pending' ? (
         <>
-          Pending
+          pediente
           <ClockIcon className="ml-1 w-4 text-gray-500" />
         </>
       ) : null}
       {status === 'paid' ? (
         <>
-          Paid
+        pagado
           <CheckIcon className="ml-1 w-4 text-white" />
         </>
       ) : null}
