@@ -29,14 +29,14 @@ export default function Page() {
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           <Image
-          src="/im3.jpg"
-          width={1000}
+          src="/scott-graham-5fNmWej4tAA-unsplash.jpg"
+          width={900}
           height={760}
           className="hidden md:block"
           alt="Screenshots of the dashboard project showing desktop version"
           />
           <Image
-          src="/im4.jpg"
+          src="/abhinav-arya-NRieeIvcC4k-unsplash.jpg"
           width={560}
           height={620}
           className="block md:hidden"
